@@ -1,14 +1,1 @@
-{
-  "users": [
-    {
-      "id": "7561dd57-eaef-412a-83a6-5366f4553f18",
-      "name": "Cristiane Martins",
-      "email": "cristianemsc@gmail.com"
-    },
-    {
-      "id": "f2af1b65-7ad8-4b93-bda6-72f3d1489498",
-      "name": "Svetslana au au",
-      "email": "svetslana@gmail.com"
-    }
-  ]
-}
+{"users":[{"id":"7561dd57-eaef-412a-83a6-5366f4553f18","name":"Cristiane Martins","email":"cristianemsc@gmail.com"},{"id":"f2af1b65-7ad8-4b93-bda6-72f3d1489498","name":"Svetslana au au","email":"svetslana@gmail.com"},{"id":"547f9e09-bdf3-4109-9bd8-7c94167737b5","name":"Cristiane Martins","email":"cristianemsc@gmail.com"}]}
